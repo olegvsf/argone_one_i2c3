@@ -2,7 +2,7 @@
 
 Choose Celsius or Fahrenheit.
 
-- **i2cDevice** - Configures which I2C bus should be scanned for Argon One (available options: 1, 2 or 3). 
+- **i2cDevice** - Configures which I2C bus should be scanned for Argon One (available options: 1, 2 or 3).
 
 ![image](https://raw.githubusercontent.com/adamoutler/HassOSArgonOneAddon/main/gitResources/Configuration.png)
 
@@ -39,4 +39,5 @@ In order to enable i2C, you must follow one of the methods below.
 No :(
 
 ## Based on
+
 Click [here](https://community.home-assistant.io/t/argon-one-active-cooling-addon/262598/8).

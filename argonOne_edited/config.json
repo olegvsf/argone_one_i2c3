@@ -12,7 +12,7 @@
   "map": ["config", "ssl", "addons", "backup", "share", "media"],
   "options": {
     "CorF": "F",
-	"i2cDevice": "1",
+    "i2cDevice": "1",
     "LowRange": 130,
     "MediumRange": 140,
     "HighRange": 150,
@@ -22,7 +22,7 @@
   },
   "schema": {
     "CorF": "str",
-	"i2cDevice": "str",
+    "i2cDevice": "str",
     "LowRange": "int(0,255)",
     "MediumRange": "int(0,255)",
     "HighRange": "int(0,255)",

@@ -8,7 +8,9 @@ This Addon keeps your temperature within specified ranges.
 ![image](https://raw.githubusercontent.com/adamoutler/HassOSArgonOneAddon/main/gitResources/FanRangeExplaination.png)
 
 # Support
+
 Sometimes ;)
 
 # Based on
+
 Click [here](https://community.home-assistant.io/t/argon-one-active-cooling-addon/262598/8).
